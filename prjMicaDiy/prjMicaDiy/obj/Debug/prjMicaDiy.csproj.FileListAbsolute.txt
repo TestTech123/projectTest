@@ -1,0 +1,11 @@
+Z:\VS Projects\prjMicaDiy\prjMicaDiy\bin\Debug\prjMicaDiy.exe.config
+Z:\VS Projects\prjMicaDiy\prjMicaDiy\bin\Debug\prjMicaDiy.exe
+Z:\VS Projects\prjMicaDiy\prjMicaDiy\bin\Debug\prjMicaDiy.pdb
+Z:\VS Projects\prjMicaDiy\prjMicaDiy\obj\Debug\prjMicaDiy.csprojResolveAssemblyReference.cache
+Z:\VS Projects\prjMicaDiy\prjMicaDiy\obj\Debug\prjMicaDiy.FrmMicaDIY.resources
+Z:\VS Projects\prjMicaDiy\prjMicaDiy\obj\Debug\prjMicaDiy.FrmProduct.resources
+Z:\VS Projects\prjMicaDiy\prjMicaDiy\obj\Debug\prjMicaDiy.FrmSalesReport.resources
+Z:\VS Projects\prjMicaDiy\prjMicaDiy\obj\Debug\prjMicaDiy.Properties.Resources.resources
+Z:\VS Projects\prjMicaDiy\prjMicaDiy\obj\Debug\prjMicaDiy.csproj.GenerateResource.Cache
+Z:\VS Projects\prjMicaDiy\prjMicaDiy\obj\Debug\prjMicaDiy.exe
+Z:\VS Projects\prjMicaDiy\prjMicaDiy\obj\Debug\prjMicaDiy.pdb
